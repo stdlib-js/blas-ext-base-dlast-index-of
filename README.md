@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dlastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dlast-index-of@deno/mod.js';
+import dlastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dlast-index-of@v0.1.0-deno/mod.js';
 ```
 
 #### dlastIndexOf( N, searchElement, x, strideX )
@@ -167,7 +167,7 @@ var idx = dlastIndexOf.ndarray( 3, 3.0, x, 1, x.length-3 );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import dlastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dlast-index-of@deno/mod.js';
+import dlastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dlast-index-of@v0.1.0-deno/mod.js';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float64'
