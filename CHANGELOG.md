@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f6cd485`](https://github.com/stdlib-js/stdlib/commit/f6cd485f63fe0b928849b5b8f78276e1802066b5) - **bench:** refactor to use string interpolation in `blas/ext/base/dlast-index-of` [(#10641)](https://github.com/stdlib-js/stdlib/pull/10641) _(by Prajjwal Bajpai)_
 -   [`d558dd6`](https://github.com/stdlib-js/stdlib/commit/d558dd6beca84f984f4d929da7d64df843304cd4) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dlast-index-of` [(#10640)](https://github.com/stdlib-js/stdlib/pull/10640) _(by Prajjwal Bajpai)_
 
 </details>
