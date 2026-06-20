@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-02)
+## Unreleased (2026-06-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5c56631`](https://github.com/stdlib-js/stdlib/commit/5c56631cd8e1d0ab496c17d05ccd6ae351c7f0ec) - **test:** fix mismatched test filenames [(#12991)](https://github.com/stdlib-js/stdlib/pull/12991) _(by Philipp Burckhardt)_
 -   [`005bc76`](https://github.com/stdlib-js/stdlib/commit/005bc7603d9898b0fd9a9d3f13e0666645711af5) - **bench:** fix benchmark name _(by Athan Reines)_
 -   [`f6cd485`](https://github.com/stdlib-js/stdlib/commit/f6cd485f63fe0b928849b5b8f78276e1802066b5) - **bench:** refactor to use string interpolation in `blas/ext/base/dlast-index-of` [(#10641)](https://github.com/stdlib-js/stdlib/pull/10641) _(by Prajjwal Bajpai)_
 -   [`d558dd6`](https://github.com/stdlib-js/stdlib/commit/d558dd6beca84f984f4d929da7d64df843304cd4) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dlast-index-of` [(#10640)](https://github.com/stdlib-js/stdlib/pull/10640) _(by Prajjwal Bajpai)_
@@ -26,9 +27,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 -   Prajjwal Bajpai
 
 </section>
